@@ -7,7 +7,7 @@
 
 **Graduate Student Researcher** @ [Univ. California Berkeley](https://ourenvironment.berkeley.edu/) (Aug 14 - Dec 21)
 
-Lab manager and lead field technician in animal communication lab 
+Lab manager and lead field technician in animal communication lab ([Elias Lab](https://nature.berkeley.edu/eliaslab/))
 
 + Managed logistics and field teams for collection of jumping spiders in the mountain ranges of SW USA
 + Managed undergraduate technicians in carrying out behavioral experiments, data collection, managment, and analysis
