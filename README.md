@@ -19,11 +19,14 @@ Courses: Animal Behavior, Animal Communication, Wildlife Ecology, Introduction t
 + Communicated complex topics in a clear and concise manner
 + Facilitated discussions among students
 
-**Lab Technician**
+**Lab Technician** @ [Univ. Georgia](https://www.uga.edu/) (Sept 12 - May 14)
+Dyer Genetic Lab and Moore Life History Lab
+
++ Carried out various lab experiements on *Drosophila* gene flow, gene evolution, and behavior ([Dyer Lab](http://dyerlab.genetics.uga.edu/))
++ Carried out various lab experiements on *Drosophila* life history and behavior ([Moore Lab](https://site.caes.uga.edu/trishjmoorelab/))
++ Collected, entered, and analyzed data 
 
 **Field Technician / Intern**
-
-**Lab Technician**
 
 **Field Technician**
 
