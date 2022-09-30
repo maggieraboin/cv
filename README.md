@@ -6,6 +6,7 @@
 **Data Science Post-Doctoral Student Contractor** @ [U.S. Geological Survey](https://www.usgs.gov/centers/upper-midwest-environmental-sciences-center) (Sept 22 - *Present*)
 
 **Graduate Student Researcher** @ [Univ. California Berkeley](https://ourenvironment.berkeley.edu/) (Aug 14 - Dec 21)
+
 Lab manager and lead field technician in animal communication lab 
 
 + Managed logistics and field teams for collection of jumping spiders in the mountain ranges of SW USA
@@ -13,6 +14,7 @@ Lab manager and lead field technician in animal communication lab
 + Participated in partnerships and collaborations to conduct quality research
 
 **Graduate Student Instructor** @ [Univ. California Berkeley](https://ourenvironment.berkeley.edu/) (Aug 14 - May 21)
+
 Courses: Animal Behavior, Animal Communication, Wildlife Ecology, Introduction to Culture and Natural Resource Management, Senior Seminar in Environmental Science
 
 + Carried out lesson planning, grading, and class logistics
@@ -20,6 +22,7 @@ Courses: Animal Behavior, Animal Communication, Wildlife Ecology, Introduction t
 + Facilitated discussions among students
 
 **Lab Technician** @ [Univ. Georgia](https://www.uga.edu/) (Sept 12 - May 14)
+
 Dyer Genetic Lab and Moore Life History Lab
 
 + Carried out various lab experiements on *Drosophila* gene flow, gene evolution, and behavior ([Dyer Lab](http://dyerlab.genetics.uga.edu/))
