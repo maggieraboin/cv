@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Maggie Raboin
 description: Ecologist based in Duluth, MN
 
+![pic of Maggie]({{ "IMG_0507.png" | relative_url }})
