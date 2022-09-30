@@ -1,4 +1,4 @@
-![Pic of Maggie](IMG_0507.png){width=50% height=50%}
+![Pic of Maggie](IMG_0507.png){:height="36px" width="36px"}
 
 [Email](maggie.raboin@gmail.com) / [Website](maggieraboin.com) / [LinkedIn](https://www.linkedin.com/in/maggie-raboin-8b0a6822a/)
 
